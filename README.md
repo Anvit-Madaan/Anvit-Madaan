@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Anvit 👋
 
-<!--
-**Anvit-Madaan/Anvit-Madaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (MERN / Spring Boot Learner)  
+🚀 Building real-world projects for placements  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- Frontend: React, HTML, CSS, JavaScript
+- Backend: Node.js / Spring Boot
+- Database: MongoDB / MySQL
+- Tools: Git, GitHub, Postman
+
+---
+
+## 📌 Projects
+- Job Portal (MERN Stack)
+- More coming soon...
+
+---
+
+## 📫 Contact
+Email: anvitmadaan@gmail.com  
+LinkedIn: https://www.linkedin.com/in/anvit-madaan/
